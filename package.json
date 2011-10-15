@@ -2,7 +2,7 @@
   "author": "Joseph Gentle <josephg@gmail.com> (http://josephg.com/)",
   "name": "roboname",
   "description": "Robot name generator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:josephg/roboname.git"
