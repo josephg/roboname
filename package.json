@@ -1,0 +1,16 @@
+{
+  "author": "Joseph Gentle <josephg@gmail.com> (http://josephg.com/)",
+  "name": "roboname",
+  "description": "Robot name generator",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:josephg/roboname.git"
+  },
+  "main": "roboname.js",
+  "engines": {
+    "node": "~0.4.12"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
