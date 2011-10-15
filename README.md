@@ -8,7 +8,7 @@ $ npm install roboname
 
 roboname = require 'roboname'
 
-roboname() # 'Mechaspin'
+roboname() # 'Irontron'
 roboname() # 'Person-3P0'
 roboname() # 'Optimus Mechaplex'
 ```
