@@ -2,12 +2,15 @@
 
 ```
 $ npm install roboname
-...
-$ node
-> require('roboname')()
-'Mechaspin'
-> require('roboname')()
-'Person-3P0'
-> require('roboname')()
-'Optimus Mechaplex'
 ```
+
+```coffeescript
+
+roboname = require 'roboname'
+
+roboname() # 'Mechaspin'
+roboname() # 'Person-3P0'
+roboname() # 'Optimus Mechaplex'
+```
+
+# WARNING: ROBOT NAME DATABASE INCOMPLETE. PULL REQUESTS WILL BE ACKNOWLEDGED WITH AFFIRMATIVE
